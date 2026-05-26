@@ -1,4 +1,3 @@
--- No Delta, execute este único comando:
 loadstring(game:HttpGet("https://pastebin.com/raw/SEUCODIGO", true))()
 
 local Players = game:GetService("Players")
